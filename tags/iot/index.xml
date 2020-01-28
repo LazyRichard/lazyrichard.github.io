@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT | JMLab.me</title>
+    <link>/tags/iot/</link>
+      <atom:link href="/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>IoT</title>
+      <link>/tags/iot/</link>
+    </image>
+    
+    <item>
+      <title>리버스 방탈출 소녀의 기억 장치</title>
+      <link>/project/revescapememory/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/revescapememory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>리버스 방탈출 아기돼지 삼형제 장치</title>
+      <link>/project/revescapethreelittlepigs/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/project/revescapethreelittlepigs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSA를 이용한 JWT 기반 IoT 인증 서버</title>
+      <link>/project/jwtbasedauthserver/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/project/jwtbasedauthserver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OPC-UA 서버 센서간 자동 연결 시스템</title>
+      <link>/project/opcuazeroconf/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/opcuazeroconf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartWindow</title>
+      <link>/project/smartwindow/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/smartwindow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

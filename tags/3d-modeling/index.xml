@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Modeling | JMLab.me</title>
+    <link>/tags/3d-modeling/</link>
+      <atom:link href="/tags/3d-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D Modeling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>3D Modeling</title>
+      <link>/tags/3d-modeling/</link>
+    </image>
+    
+    <item>
+      <title>USEED 라인 트레이서 모델링</title>
+      <link>/project/useedlinetracer/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/project/useedlinetracer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RC 거미</title>
+      <link>/project/rcweb/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/project/rcweb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
