@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D Modeling | JMLab.me</title><link>https://www.jmlab.me/ko/tag/3d-modeling/</link><atom:link href="https://www.jmlab.me/ko/tag/3d-modeling/index.xml" rel="self" type="application/rss+xml"/><description>3D Modeling</description><generator>Wowchemy (https://wowchemy.com)</generator><language>ko-kr</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate><image><url>https://www.jmlab.me/media/icon_huedd6aa0baece957ad22ed6848c976b34_6846_512x512_fill_lanczos_center_3.png</url><title>3D Modeling</title><link>https://www.jmlab.me/ko/tag/3d-modeling/</link></image><item><title>USEED 라인 트레이서 모델링</title><link>https://www.jmlab.me/ko/project/useedlinetracer/</link><pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate><guid>https://www.jmlab.me/ko/project/useedlinetracer/</guid><description/></item><item><title>RC 거미</title><link>https://www.jmlab.me/ko/project/rcweb/</link><pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate><guid>https://www.jmlab.me/ko/project/rcweb/</guid><description>&lt;h2 id="프로젝트-개요">프로젝트 개요&lt;/h2>
+&lt;h3 id="수행기간">수행기간&lt;/h3>
+&lt;ul>
+&lt;li>2019.02.26 ~ 2019.03.28 (약 1개월)&lt;/li>
+&lt;/ul>
+&lt;h3 id="역할">역할&lt;/h3>
+&lt;ul>
+&lt;li>디자인&lt;/li>
+&lt;/ul>
+&lt;h2 id="주요-활동">주요 활동&lt;/h2>
+&lt;ul>
+&lt;li>솔리드웍스 곡면 기능을 활용한 디자인&lt;/li>
+&lt;li>탑-다운(Top-Down) 방식의 설계기법 적용&lt;/li>
+&lt;/ul>
+&lt;h2 id="성과">성과&lt;/h2>
+&lt;ul>
+&lt;li>솔리드웍스 디자인 콘테스트 2015 장려상&lt;/li>
+&lt;/ul>
+&lt;h2 id="사용-기술--프레임워크">사용 기술 / 프레임워크&lt;/h2>
+&lt;ul>
+&lt;li>Solidworks&lt;/li>
+&lt;/ul>
+&lt;h2 id="세부-내용">세부 내용&lt;/h2>
+&lt;h3 id="곡면-기능을-활용한-디자인">곡면 기능을 활용한 디자인&lt;/h3>
+&lt;figure id="figure-곡면-기능을-활용한-몸체-디자인">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="곡면 기능을 활용한 몸체 디자인" srcset="
+/ko/project/rcweb/fig1_hu476f7bdc25d02f70b7051d47a2ef1186_130936_51cb085c79319697591bd18e44b31640.webp 400w,
+/ko/project/rcweb/fig1_hu476f7bdc25d02f70b7051d47a2ef1186_130936_9a0d599fa92e21c5ecb56f7ad5f28eac.webp 760w,
+/ko/project/rcweb/fig1_hu476f7bdc25d02f70b7051d47a2ef1186_130936_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://www.jmlab.me/ko/project/rcweb/fig1_hu476f7bdc25d02f70b7051d47a2ef1186_130936_51cb085c79319697591bd18e44b31640.webp"
+width="427"
+height="339"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+곡면 기능을 활용한 몸체 디자인
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-로프트-기능을-활용한-꼬리-디자인">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="로프트 기능을 활용한 꼬리 디자인" srcset="
+/ko/project/rcweb/fig2_hudd308b4d4b6f7dc7a4f0a0381153bad5_93780_b780d461038807802bfdc93464a8d596.webp 400w,
+/ko/project/rcweb/fig2_hudd308b4d4b6f7dc7a4f0a0381153bad5_93780_02b1e962fb21bd041f32c0b0f4ad3a6a.webp 760w,
+/ko/project/rcweb/fig2_hudd308b4d4b6f7dc7a4f0a0381153bad5_93780_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://www.jmlab.me/ko/project/rcweb/fig2_hudd308b4d4b6f7dc7a4f0a0381153bad5_93780_b780d461038807802bfdc93464a8d596.webp"
+width="432"
+height="366"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+로프트 기능을 활용한 꼬리 디자인
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-배-형상">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="배 형상" srcset="
+/ko/project/rcweb/fig4_hub300f539f390661e4c5262c818dd9a9b_68448_859be078c2b8bb8b57e29d8af1318043.webp 400w,
+/ko/project/rcweb/fig4_hub300f539f390661e4c5262c818dd9a9b_68448_8feb8e015aee13d0635802013946be89.webp 760w,
+/ko/project/rcweb/fig4_hub300f539f390661e4c5262c818dd9a9b_68448_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://www.jmlab.me/ko/project/rcweb/fig4_hub300f539f390661e4c5262c818dd9a9b_68448_859be078c2b8bb8b57e29d8af1318043.webp"
+width="424"
+height="241"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+배 형상
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-배-디자인">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="배 디자인" srcset="
+/ko/project/rcweb/fig5_hue485659c9cae87953d921e06a7cba56b_46023_1e90ed7393ca2f59932186934d5847bb.webp 400w,
+/ko/project/rcweb/fig5_hue485659c9cae87953d921e06a7cba56b_46023_169021b127f3e2b3fe8dde9aa3fa6f9b.webp 760w,
+/ko/project/rcweb/fig5_hue485659c9cae87953d921e06a7cba56b_46023_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://www.jmlab.me/ko/project/rcweb/fig5_hue485659c9cae87953d921e06a7cba56b_46023_1e90ed7393ca2f59932186934d5847bb.webp"
+width="407"
+height="280"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+배 디자인
+&lt;/figcaption>&lt;/figure>
+&lt;h3 id="탑-다운top-down-설계-기법">탑-다운(Top-Down) 설계 기법&lt;/h3>
+&lt;figure id="figure-탑-다운-기법을-활용한-파트">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="탑-다운 기법을 활용한 파트" srcset="
+/ko/project/rcweb/fig3_hu8b15d4218b7818fceec280c2422111c7_113236_27c27e75f087e381aa0acea5d1ffbb46.webp 400w,
+/ko/project/rcweb/fig3_hu8b15d4218b7818fceec280c2422111c7_113236_1fd7e3476e6d6b1f1fed2a6a00a59c9a.webp 760w,
+/ko/project/rcweb/fig3_hu8b15d4218b7818fceec280c2422111c7_113236_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://www.jmlab.me/ko/project/rcweb/fig3_hu8b15d4218b7818fceec280c2422111c7_113236_27c27e75f087e381aa0acea5d1ffbb46.webp"
+width="424"
+height="445"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+탑-다운 기법을 활용한 파트
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-탑-다운-기법을-활용한-유니버셜-조인트-링크">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="탑-다운 기법을 활용한 유니버셜 조인트 링크" srcset="
+/ko/project/rcweb/fig6_hub89fe2b17d57e7f312d060c6a196a0e3_116408_811a4538801792c4556d5b12920d35d7.webp 400w,
+/ko/project/rcweb/fig6_hub89fe2b17d57e7f312d060c6a196a0e3_116408_818ba59c733efbe9571265ef04edec48.webp 760w,
+/ko/project/rcweb/fig6_hub89fe2b17d57e7f312d060c6a196a0e3_116408_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://www.jmlab.me/ko/project/rcweb/fig6_hub89fe2b17d57e7f312d060c6a196a0e3_116408_811a4538801792c4556d5b12920d35d7.webp"
+width="451"
+height="344"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+탑-다운 기법을 활용한 유니버셜 조인트 링크
+&lt;/figcaption>&lt;/figure></description></item></channel></rss>
