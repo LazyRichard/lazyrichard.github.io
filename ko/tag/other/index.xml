@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Other | JMLab.me</title><link>https://www.jmlab.me/ko/tag/other/</link><atom:link href="https://www.jmlab.me/ko/tag/other/index.xml" rel="self" type="application/rss+xml"/><description>Other</description><generator>Wowchemy (https://wowchemy.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate><image><url>https://www.jmlab.me/media/icon_huedd6aa0baece957ad22ed6848c976b34_6846_512x512_fill_lanczos_center_3.png</url><title>Other</title><link>https://www.jmlab.me/ko/tag/other/</link></image><item><title>리버스 방탈출 아기돼지 삼형제 장치</title><link>https://www.jmlab.me/ko/project/revescapethreelittlepigs/</link><pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate><guid>https://www.jmlab.me/ko/project/revescapethreelittlepigs/</guid><description>&lt;h2 id="프로젝트-개요">프로젝트 개요&lt;/h2>
+&lt;h3 id="프로젝트-배경">프로젝트 배경&lt;/h3>
+&lt;ul>
+&lt;li>기존 업체에서 사용하던 시스템이 PC Unity 기반이라 장비 가격이 높고, 브레드보드를 이용한 임베디드 장치 설계로 잦은 오작동과 유지보수가 어려운 문제점 발생.&lt;/li>
+&lt;li>라즈베리파이를 기반으로한 제어 컨트롤러 채용으로 재료비 절감 효과 및 자체 설계한 PCB를 이용한 센서로 높은 안정성을 통해 문제를 해결하고자 프로젝트 제안&lt;/li>
+&lt;/ul>
+&lt;h3 id="프로젝트-목표">프로젝트 목표&lt;/h3>
+&lt;ul>
+&lt;li>특정 RFID 태그가 감지되면 적합한 영상을 출력하는 시스템 개발&lt;/li>
+&lt;/ul>
+&lt;h3 id="수행기간">수행기간&lt;/h3>
+&lt;ul>
+&lt;li>2019.02.26 ~ 2019.03.28 (약 1개월)&lt;/li>
+&lt;/ul>
+&lt;h3 id="역할">역할&lt;/h3>
+&lt;ul>
+&lt;li>설계 및 개발&lt;/li>
+&lt;/ul>
+&lt;h2 id="주요-활동">주요 활동&lt;/h2>
+&lt;ul>
+&lt;li>라즈베리파이에 QT5기반 GUI 프로그램을 통해 영상을 출력하는 시스템 제작. 외부 센서 데이터는 Multi-Thread 기반 수집 프로그램과 자체 설계한 프로토콜을 사용해 송수신&lt;/li>
+&lt;li>자체 제작한 PCB를 활용한 센서 모듈을 통해 안정적인 태그 인식 및 통신&lt;/li>
+&lt;li>3D 모델링 및 프린팅을 활용한 맞춤형 기구 장치 디자인&lt;/li>
+&lt;/ul>
+&lt;h2 id="성과">성과&lt;/h2>
+&lt;ul>
+&lt;li>PC가 아닌 임베디드 장비를 활용한 장치 개발로 재료비 50% 이상 감소&lt;/li>
+&lt;/ul>
+&lt;h2 id="사용-기술--프레임워크">사용 기술 / 프레임워크&lt;/h2>
+&lt;ul>
+&lt;li>PySide2(PyQT5), Arduino(C++), Solidworks, 3D Printing&lt;/li>
+&lt;/ul></description></item><item><title>서버/클라이언트 기반 채팅 및 P2P 파일 공유 시스템</title><link>https://www.jmlab.me/ko/project/linuxp2pchatserver/</link><pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate><guid>https://www.jmlab.me/ko/project/linuxp2pchatserver/</guid><description>&lt;h2 id="프로젝트-개요">프로젝트 개요&lt;/h2>
+&lt;h3 id="수행기간">수행기간&lt;/h3>
+&lt;ul>
+&lt;li>2016.10.11 ~ 2016.12.19 (약 2개월)&lt;/li>
+&lt;/ul>
+&lt;h3 id="역할">역할&lt;/h3>
+&lt;ul>
+&lt;li>팀장&lt;/li>
+&lt;li>설계 및 개발&lt;/li>
+&lt;/ul>
+&lt;h2 id="주요-활동">주요 활동&lt;/h2>
+&lt;ul>
+&lt;li>Epoll을 활용한 싱글 쓰레드 기반 채팅 및 P2P 파일 공유 서버로 다중 클라이언트 지원 가능&lt;/li>
+&lt;li>추가적인 기능 추가가 용이하도록 서버/클라이언트 간 유연한 프로토콜 설계&lt;/li>
+&lt;/ul>
+&lt;h2 id="성과">성과&lt;/h2>
+&lt;ul>
+&lt;li>해당 수업 텀프로젝트 만점으로 A+ 성적&lt;/li>
+&lt;/ul>
+&lt;h1 id="사용-기술--프레임워크">사용 기술 / 프레임워크&lt;/h1>
+&lt;ul>
+&lt;li>C, Multi-thread, epoll&lt;/li>
+&lt;/ul></description></item></channel></rss>
